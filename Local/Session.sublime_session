@@ -1,0 +1,1010 @@
+{
+	"folder_history":
+	[
+		"/C/Users/代建建/Desktop/NuSOAP-master/NuSOAP-master/samples",
+		"/C/Users/代建建/Desktop/apache2",
+		"/C/Users/代建建/Desktop/bin",
+		"/Z/web/apache2",
+		"/Z/标准版本/apache2"
+	],
+	"last_version": 3176,
+	"last_window_id": 15,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 769.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"",
+						":0 - BOF"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						":q",
+						"Set Syntax: SQL"
+					],
+					[
+						"Material th",
+						"Material Theme: Activate theme"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/代建建/Desktop/apache2/manual/vmnids_en_US/AlertCenter_ATPEvents.html",
+				"/C/Users/代建建/Desktop/apache2/app/models/ToolsPacket.php",
+				"/C/Users/代建建/Desktop/移动对接/index.tpl.php",
+				"/C/Users/代建建/Desktop/移动对接/FtpConfig.php",
+				"/C/Users/代建建/Desktop/移动对接/MalFile.php",
+				"/C/Users/代建建/Desktop/apache2/www/UpdateLicense.php",
+				"/C/Users/代建建/Desktop/FtpConfig.php",
+				"/C/Users/代建建/Desktop/移动对接/FtpSetController.php",
+				"/C/Users/代建建/Desktop/apache2/lib/Cavy/Controller/Front.php",
+				"/C/Users/代建建/Desktop/apache2/lib/Cavy/Controller/Router.php",
+				"/C/Users/代建建/Desktop/apache2/lib/Cavy/View.php",
+				"/C/Users/代建建/Desktop/apache2/lib/Cavy/View/Abstract.php",
+				"/C/Users/代建建/Desktop/apache2/lib/Cavy/Controller/Filter/Chain.php",
+				"/C/Users/代建建/Desktop/apache2/lib/Cavy/Controller/Dispatcher.php",
+				"/C/Users/代建建/Desktop/apache2/lib/cavy_startup.php",
+				"/C/Users/代建建/Desktop/apache2/lib/Cavy/Controller/Dispatcher/Interface.php",
+				"/C/Users/代建建/Desktop/apache2/lib/Cavy.php",
+				"/C/Users/代建建/Desktop/apache2/lib/Cavy/Controller/RewriteRouter.php",
+				"/C/Users/代建建/Desktop/NuSOAP-master/NuSOAP-master/samples/sslclient.php",
+				"/C/Users/代建建/Desktop/apache2/app/controllers/AppController.php",
+				"/C/Users/代建建/Desktop/NuSOAP-master/NuSOAP-master/samples/index.html",
+				"/Z/web/apache2/app/views/index/index.tpl.php",
+				"/C/Users/代建建/Desktop/apache2/app/controllers/DbaController.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/ListManage.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/ScmRule.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/DbaRule.php",
+				"/C/Users/代建建/Desktop/apache2/app/views/br/analyze/index.tpl.php",
+				"/C/Users/代建建/Desktop/apache2/app/views/fileAlert/cc/analyze/index.tpl.php",
+				"/C/Users/代建建/Desktop/apache2/app/controllers/MalfileController.php",
+				"/C/Users/代建建/Desktop/MalFile.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/MalFile.php",
+				"/Z/web/apache2/app/models/FtpConfig.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/Menu.php",
+				"/C/Users/代建建/Desktop/apache2/www/lib/TabRender.php",
+				"/C/Users/代建建/Desktop/apache2/app/config/roles.deny.php",
+				"/C/Users/代建建/Desktop/apache2/www/lib/nsfocus/License.php",
+				"/C/Users/代建建/Desktop/apache2/app/controllers/IndexController.php",
+				"/C/Users/代建建/Desktop/test.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/AllEvent.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/AuthorizeControl.php",
+				"/C/Users/代建建/Desktop/weixin_ransomware_decrypt.py",
+				"/C/Users/代建建/Desktop/apache2/www/lib/JsCommTableAlert.php",
+				"/C/Users/代建建/Desktop/apache2/app/views/authorize/analyze/index.tpl.php",
+				"/C/Users/代建建/Desktop/apache2/www/lib/JsCommTableLog.php",
+				"/Z/web/apache2/app/models/IpsEvent.php",
+				"/C/Users/代建建/Desktop/刘孙义/app/model/SysBase.php",
+				"/C/Users/代建建/Desktop/apache2/app/views/ws/analyze/index.tpl.php",
+				"/Z/web/apache2/app/models/IpsReport.php",
+				"/C/Users/代建建/Desktop/1/WbUrl.php",
+				"/C/Users/代建建/Desktop/1/WbSuspiciousIP.php",
+				"/C/Users/代建建/Desktop/1/WbFile.php",
+				"/C/Users/代建建/Desktop/1/WbCc.php",
+				"/C/Users/代建建/Desktop/1/FileSampleController.php",
+				"/C/Users/代建建/Desktop/WbCc.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/WbCc.php",
+				"/C/Users/代建建/Desktop/apache2/app/views/system/update.tpl.php",
+				"/C/Users/代建建/Desktop/apache2/app/controllers/FileSampleController.php",
+				"/C/Users/代建建/Desktop/apache2/app/controllers/ToolsController.php",
+				"/C/Users/代建建/Desktop/新建文件夹 (4)/ReportMaker.php",
+				"/C/Users/代建建/Desktop/CloudSetting.php",
+				"/C/Users/代建建/Desktop/Dashboard.php",
+				"/C/Users/代建建/Desktop/l/FDDB_201802011747",
+				"/C/Users/代建建/Desktop/l/getUrl.py",
+				"/C/Users/代建建/Desktop/新建文件夹 (4)/FileAlert.php",
+				"/C/Users/代建建/Desktop/新建文件夹 (4)/FileAlertController.php",
+				"/C/Users/代建建/Desktop/apache2/www/lib/ReportMaker.php",
+				"/Z/web/apache2/www/lib/ReportMaker.php",
+				"/C/Users/代建建/Desktop/新建文件夹 (4)/nti/set.tpl.php",
+				"/C/Users/代建建/Desktop/新建文件夹 (4)/malfile/configure.tpl.php",
+				"/C/Users/代建建/Desktop/新建文件夹 (4)/filesampe/url/index.tpl.php",
+				"/C/Users/代建建/Desktop/新建文件夹 (4)/filesampe/ip/index.tpl.php",
+				"/C/Users/代建建/Desktop/新建文件夹 (4)/filesampe/cc/index.tpl.php",
+				"/C/Users/代建建/Desktop/新建文件夹 (4)/system/license.tpl.php",
+				"/C/Users/代建建/Desktop/FileAlert.php",
+				"/C/Users/代建建/Desktop/apache2/module/user/controllers/UserController.php",
+				"/C/Users/代建建/Desktop/ReportMaker.php",
+				"/C/Users/代建建/Desktop/apache2/app/views/cloudSetting/index.tpl.php",
+				"/C/Users/代建建/Desktop/index2.html",
+				"/C/Users/代建建/Desktop/apache2/app/views/system/setting/params.tpl.php",
+				"/C/Users/代建建/Desktop/apache2/app/views/malfile/policy/policies.tpl.php",
+				"/C/Users/代建建/Desktop/apache2/app/controllers/SystemController.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/SysBase.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/CloudSetting.php",
+				"/C/Users/代建建/Desktop/IpsEvent.php",
+				"/C/Users/代建建/Desktop/新建文件夹 (3)/IpsEvent.php",
+				"/C/Users/代建建/Desktop/ips字段错误/定位/bad/ips.event.list",
+				"/C/Users/代建建/Desktop/ips字段错误/ips.event.list",
+				"/C/Users/代建建/Desktop/IpsEvent (2).php",
+				"/C/Users/代建建/Desktop/apache2/app/views/home/dashboard/if_traffic.tpl.php",
+				"/C/Users/代建建/Desktop/test.py",
+				"/C/Users/代建建/Desktop/apache2/app/models/IpsEvent.php",
+				"/C/Users/代建建/Desktop/apache2/app/bootstrap.php",
+				"/C/Users/代建建/Desktop/henan.txt",
+				"/C/Users/代建建/Desktop/ReputationReport (2).php",
+				"/C/Users/代建建/Desktop/新建文件夹/apache2/apache2/module/user/controllers/UserController.php",
+				"/C/Python27/Lib/mimetypes.py",
+				"/C/Users/代建建/Desktop/get-pip.py",
+				"/C/Users/代建建/Desktop/apache2/app/helpers/NgfwHelper.php"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+					"C:\\Users\\代建建\\Desktop\\apache2",
+					"C:\\Users\\代建建\\Desktop\\apache2\\lib\\Cavy",
+					"C:\\Users\\代建建\\Desktop\\apache2",
+					"C:\\Users\\代建建\\Desktop\\apache2\\app\\views",
+					"C:\\Users\\代建建\\Desktop\\apache2",
+					"C:\\Users\\代建建\\Desktop\\apache2\\app\\controllers",
+					"C:\\Users\\代建建\\Desktop\\apache2"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"nsfocus.pcap",
+					"system('super bzyrm /tmp/*.pcap",
+					"speed",
+					"include",
+					"Cavy_Controller_Filter_Chain",
+					"route(",
+					"route",
+					"isDispatchable",
+					"urldb",
+					"newrulesys",
+					"upload",
+					"isDispatchable",
+					"dispatch",
+					"doFilter",
+					"Cavy_Controller_Filter_Chain",
+					"Cavy_Controller_Dispatcher",
+					"_dispatcher",
+					"getDispatcher",
+					"dispatchLoopShutdown",
+					"Cavy_Controller_Plugin_Broker",
+					"Cavy_Controller_Front",
+					"dispatch",
+					"checkNtiReboot",
+					"nti_total_switch_node",
+					"nti_total",
+					"TotalSwitch",
+					"include",
+					"require",
+					"change_en",
+					"端口",
+					"CONTENT_CONFIG",
+					"get_in_use_zone_list",
+					"/opt/nsfocus/rule/content.xml",
+					"DbaRule",
+					"/opt/nsfocus/rule/content.xml",
+					"echo",
+					"$ENV['isVmips']",
+					"time_select",
+					"get_zone_array",
+					"时间选择",
+					"file_restore_conf",
+					"set_file_restore_switch",
+					"file_restore_conf",
+					"get_file_restore_status_by_blist",
+					"get_file_restore_status_by_nts",
+					"set_file_restore_switch",
+					"file_restore_config",
+					"file_restore_conf",
+					"DOMDocument",
+					"tabs",
+					"render",
+					"tabs/cat",
+					"Cavy::$ENV[\"secret\"]",
+					"tabs()",
+					"tabs(",
+					"tabs",
+					"虚拟线",
+					"Cavy::$ENV[\"secret\"]",
+					"高可用性",
+					"cer2",
+					"uploadLicense",
+					"eoi.agent.lic",
+					"['module']",
+					"field_to_CN",
+					"原始报文",
+					"&nbsp",
+					"day_Click",
+					"不合法的日",
+					"不合法的日期格式或者日期超出限定范围",
+					"time_selector",
+					"time_window",
+					"id=\"time_window"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"updateli",
+						"www\\UpdateLicense.php"
+					],
+					[
+						"fron",
+						"lib\\Cavy\\Controller\\Front.php"
+					],
+					[
+						"Cavy.php",
+						"lib\\Cavy.php"
+					],
+					[
+						"cavy",
+						"lib\\cavy_startup.php"
+					],
+					[
+						"lic",
+						"www\\lib\\nsfocus\\License.php"
+					],
+					[
+						"update",
+						"www\\UpdateLicense.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 253.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1371.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/代建建/Desktop/apache2/app/models/ToolsPacket.php",
+					"settings":
+					{
+						"buffer_size": 20622,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"",
+						":0 - BOF"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						":q",
+						"Set Syntax: SQL"
+					],
+					[
+						"Material th",
+						"Material Theme: Activate theme"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/代建建/Desktop/apache2",
+				"/C/Users/代建建/Desktop/apache2/app",
+				"/C/Users/代建建/Desktop/apache2/app/models"
+			],
+			"file_history":
+			[
+				"/C/Users/代建建/Desktop/apache2/app/models/ToolsPacket.php",
+				"/C/Users/代建建/Desktop/apache2/manual/vmnids_en_US/AlertCenter_ATPEvents.html",
+				"/C/Users/代建建/Desktop/移动对接/index.tpl.php",
+				"/C/Users/代建建/Desktop/移动对接/FtpConfig.php",
+				"/C/Users/代建建/Desktop/移动对接/MalFile.php",
+				"/C/Users/代建建/Desktop/apache2/www/UpdateLicense.php",
+				"/C/Users/代建建/Desktop/FtpConfig.php",
+				"/C/Users/代建建/Desktop/移动对接/FtpSetController.php",
+				"/C/Users/代建建/Desktop/apache2/lib/Cavy/Controller/Front.php",
+				"/C/Users/代建建/Desktop/apache2/lib/Cavy/Controller/Router.php",
+				"/C/Users/代建建/Desktop/apache2/lib/Cavy/View.php",
+				"/C/Users/代建建/Desktop/apache2/lib/Cavy/View/Abstract.php",
+				"/C/Users/代建建/Desktop/apache2/lib/Cavy/Controller/Filter/Chain.php",
+				"/C/Users/代建建/Desktop/apache2/lib/Cavy/Controller/Dispatcher.php",
+				"/C/Users/代建建/Desktop/apache2/lib/cavy_startup.php",
+				"/C/Users/代建建/Desktop/apache2/lib/Cavy/Controller/Dispatcher/Interface.php",
+				"/C/Users/代建建/Desktop/apache2/lib/Cavy.php",
+				"/C/Users/代建建/Desktop/apache2/lib/Cavy/Controller/RewriteRouter.php",
+				"/C/Users/代建建/Desktop/NuSOAP-master/NuSOAP-master/samples/sslclient.php",
+				"/C/Users/代建建/Desktop/apache2/app/controllers/AppController.php",
+				"/C/Users/代建建/Desktop/NuSOAP-master/NuSOAP-master/samples/index.html",
+				"/Z/web/apache2/app/views/index/index.tpl.php",
+				"/C/Users/代建建/Desktop/apache2/app/controllers/DbaController.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/ListManage.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/ScmRule.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/DbaRule.php",
+				"/C/Users/代建建/Desktop/apache2/app/views/br/analyze/index.tpl.php",
+				"/C/Users/代建建/Desktop/apache2/app/views/fileAlert/cc/analyze/index.tpl.php",
+				"/C/Users/代建建/Desktop/apache2/app/controllers/MalfileController.php",
+				"/C/Users/代建建/Desktop/MalFile.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/MalFile.php",
+				"/Z/web/apache2/app/models/FtpConfig.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/Menu.php",
+				"/C/Users/代建建/Desktop/apache2/www/lib/TabRender.php",
+				"/C/Users/代建建/Desktop/apache2/app/config/roles.deny.php",
+				"/C/Users/代建建/Desktop/apache2/www/lib/nsfocus/License.php",
+				"/C/Users/代建建/Desktop/apache2/app/controllers/IndexController.php",
+				"/C/Users/代建建/Desktop/test.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/AllEvent.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/AuthorizeControl.php",
+				"/C/Users/代建建/Desktop/weixin_ransomware_decrypt.py",
+				"/C/Users/代建建/Desktop/apache2/www/lib/JsCommTableAlert.php",
+				"/C/Users/代建建/Desktop/apache2/app/views/authorize/analyze/index.tpl.php",
+				"/C/Users/代建建/Desktop/apache2/www/lib/JsCommTableLog.php",
+				"/Z/web/apache2/app/models/IpsEvent.php",
+				"/C/Users/代建建/Desktop/刘孙义/app/model/SysBase.php",
+				"/C/Users/代建建/Desktop/apache2/app/views/ws/analyze/index.tpl.php",
+				"/Z/web/apache2/app/models/IpsReport.php",
+				"/C/Users/代建建/Desktop/1/WbUrl.php",
+				"/C/Users/代建建/Desktop/1/WbSuspiciousIP.php",
+				"/C/Users/代建建/Desktop/1/WbFile.php",
+				"/C/Users/代建建/Desktop/1/WbCc.php",
+				"/C/Users/代建建/Desktop/1/FileSampleController.php",
+				"/C/Users/代建建/Desktop/WbCc.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/WbCc.php",
+				"/C/Users/代建建/Desktop/apache2/app/views/system/update.tpl.php",
+				"/C/Users/代建建/Desktop/apache2/app/controllers/FileSampleController.php",
+				"/C/Users/代建建/Desktop/apache2/app/controllers/ToolsController.php",
+				"/C/Users/代建建/Desktop/新建文件夹 (4)/ReportMaker.php",
+				"/C/Users/代建建/Desktop/CloudSetting.php",
+				"/C/Users/代建建/Desktop/Dashboard.php",
+				"/C/Users/代建建/Desktop/l/FDDB_201802011747",
+				"/C/Users/代建建/Desktop/l/getUrl.py",
+				"/C/Users/代建建/Desktop/新建文件夹 (4)/FileAlert.php",
+				"/C/Users/代建建/Desktop/新建文件夹 (4)/FileAlertController.php",
+				"/C/Users/代建建/Desktop/apache2/www/lib/ReportMaker.php",
+				"/Z/web/apache2/www/lib/ReportMaker.php",
+				"/C/Users/代建建/Desktop/新建文件夹 (4)/nti/set.tpl.php",
+				"/C/Users/代建建/Desktop/新建文件夹 (4)/malfile/configure.tpl.php",
+				"/C/Users/代建建/Desktop/新建文件夹 (4)/filesampe/url/index.tpl.php",
+				"/C/Users/代建建/Desktop/新建文件夹 (4)/filesampe/ip/index.tpl.php",
+				"/C/Users/代建建/Desktop/新建文件夹 (4)/filesampe/cc/index.tpl.php",
+				"/C/Users/代建建/Desktop/新建文件夹 (4)/system/license.tpl.php",
+				"/C/Users/代建建/Desktop/FileAlert.php",
+				"/C/Users/代建建/Desktop/apache2/module/user/controllers/UserController.php",
+				"/C/Users/代建建/Desktop/ReportMaker.php",
+				"/C/Users/代建建/Desktop/apache2/app/views/cloudSetting/index.tpl.php",
+				"/C/Users/代建建/Desktop/index2.html",
+				"/C/Users/代建建/Desktop/apache2/app/views/system/setting/params.tpl.php",
+				"/C/Users/代建建/Desktop/apache2/app/views/malfile/policy/policies.tpl.php",
+				"/C/Users/代建建/Desktop/apache2/app/controllers/SystemController.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/SysBase.php",
+				"/C/Users/代建建/Desktop/apache2/app/models/CloudSetting.php",
+				"/C/Users/代建建/Desktop/IpsEvent.php",
+				"/C/Users/代建建/Desktop/新建文件夹 (3)/IpsEvent.php",
+				"/C/Users/代建建/Desktop/ips字段错误/定位/bad/ips.event.list",
+				"/C/Users/代建建/Desktop/ips字段错误/ips.event.list",
+				"/C/Users/代建建/Desktop/IpsEvent (2).php",
+				"/C/Users/代建建/Desktop/apache2/app/views/home/dashboard/if_traffic.tpl.php",
+				"/C/Users/代建建/Desktop/test.py",
+				"/C/Users/代建建/Desktop/apache2/app/models/IpsEvent.php",
+				"/C/Users/代建建/Desktop/apache2/app/bootstrap.php",
+				"/C/Users/代建建/Desktop/henan.txt",
+				"/C/Users/代建建/Desktop/ReputationReport (2).php",
+				"/C/Users/代建建/Desktop/新建文件夹/apache2/apache2/module/user/controllers/UserController.php",
+				"/C/Python27/Lib/mimetypes.py",
+				"/C/Users/代建建/Desktop/get-pip.py",
+				"/C/Users/代建建/Desktop/apache2/app/helpers/NgfwHelper.php"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+					"C:\\Users\\代建建\\Desktop\\apache2",
+					"C:\\Users\\代建建\\Desktop\\apache2\\lib\\Cavy",
+					"C:\\Users\\代建建\\Desktop\\apache2",
+					"C:\\Users\\代建建\\Desktop\\apache2\\app\\views",
+					"C:\\Users\\代建建\\Desktop\\apache2",
+					"C:\\Users\\代建建\\Desktop\\apache2\\app\\controllers",
+					"C:\\Users\\代建建\\Desktop\\apache2"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"nsfocus.pcap",
+					"system('super bzyrm /tmp/*.pcap",
+					"speed",
+					"include",
+					"Cavy_Controller_Filter_Chain",
+					"route(",
+					"route",
+					"isDispatchable",
+					"urldb",
+					"newrulesys",
+					"upload",
+					"isDispatchable",
+					"dispatch",
+					"doFilter",
+					"Cavy_Controller_Filter_Chain",
+					"Cavy_Controller_Dispatcher",
+					"_dispatcher",
+					"getDispatcher",
+					"dispatchLoopShutdown",
+					"Cavy_Controller_Plugin_Broker",
+					"Cavy_Controller_Front",
+					"dispatch",
+					"checkNtiReboot",
+					"nti_total_switch_node",
+					"nti_total",
+					"TotalSwitch",
+					"include",
+					"require",
+					"change_en",
+					"端口",
+					"CONTENT_CONFIG",
+					"get_in_use_zone_list",
+					"/opt/nsfocus/rule/content.xml",
+					"DbaRule",
+					"/opt/nsfocus/rule/content.xml",
+					"echo",
+					"$ENV['isVmips']",
+					"time_select",
+					"get_zone_array",
+					"时间选择",
+					"file_restore_conf",
+					"set_file_restore_switch",
+					"file_restore_conf",
+					"get_file_restore_status_by_blist",
+					"get_file_restore_status_by_nts",
+					"set_file_restore_switch",
+					"file_restore_config",
+					"file_restore_conf",
+					"DOMDocument",
+					"tabs",
+					"render",
+					"tabs/cat",
+					"Cavy::$ENV[\"secret\"]",
+					"tabs()",
+					"tabs(",
+					"tabs",
+					"虚拟线",
+					"Cavy::$ENV[\"secret\"]",
+					"高可用性",
+					"cer2",
+					"uploadLicense",
+					"eoi.agent.lic",
+					"['module']",
+					"field_to_CN",
+					"原始报文",
+					"&nbsp",
+					"day_Click",
+					"不合法的日",
+					"不合法的日期格式或者日期超出限定范围",
+					"time_selector",
+					"time_window",
+					"id=\"time_window"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\代建建\\Desktop\\apache2"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/代建建/Desktop/apache2/app/models/ToolsPacket.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 20622,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3332,
+										3332
+									]
+								],
+								"settings":
+								{
+									"auto_complete": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												3331,
+												3332
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												3330,
+												3331
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 793.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 70.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,985,1732,157,3119",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"updateli",
+						"www\\UpdateLicense.php"
+					],
+					[
+						"fron",
+						"lib\\Cavy\\Controller\\Front.php"
+					],
+					[
+						"Cavy.php",
+						"lib\\Cavy.php"
+					],
+					[
+						"cavy",
+						"lib\\cavy_startup.php"
+					],
+					[
+						"lic",
+						"www\\lib\\nsfocus\\License.php"
+					],
+					[
+						"update",
+						"www\\UpdateLicense.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 253.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 8,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

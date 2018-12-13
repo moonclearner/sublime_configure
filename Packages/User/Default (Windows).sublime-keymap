@@ -1,0 +1,29 @@
+[
+    { "keys": [""], "command": "new_file" },
+    { "keys": ["ctrl+n"], "command": "insert_best_completion", "args": {"default": "\t", "exact": true} },
+    { "keys": ["ctrl+n"], "command": "insert_best_completion", "args": {"default": "\t", "exact": false},
+        "context":
+        [
+            { "key": "setting.tab_completion", "operator": "equal", "operand": true },
+            { "key": "preceding_text", "operator": "not_regex_match", "operand": ".*\\b[0-9]+$", "match_all": true },
+        ]
+    },
+    { "keys": ["ctrl+n"], "command": "replace_completion_with_next_completion", "context":
+        [
+            { "key": "last_command", "operator": "equal", "operand": "insert_best_completion" },
+            { "key": "setting.tab_completion", "operator": "equal", "operand": true }
+        ]
+    },
+    { "keys": ["ctrl+n"], "command": "next_field", "context":
+        [
+            { "key": "has_next_field", "operator": "equal", "operand": true }
+        ]
+    },
+    { "keys": ["ctrl+n"], "command": "commit_completion", "context":
+        [
+            { "key": "auto_complete_visible" },
+            { "key": "setting.auto_complete_commit_on_tab" }
+        ]
+    },
+
+]

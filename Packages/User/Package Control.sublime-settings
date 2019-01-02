@@ -5,8 +5,10 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"BracketHighlighter",
 		"Emmet",
+		"Indent XML",
 		"Material Theme",
 		"Package Control",
 		"SideBarEnhancements",
